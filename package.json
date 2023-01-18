@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/Ujjawal-Khadanga/test-repo#readme",
   "dependencies": {
-    "express": "^4.18.2"
+    "express": "^4.18.2",
+    "test-repo-2": "github:Ujjawal-Khadanga/test-repo-2#main"
   }
 }
